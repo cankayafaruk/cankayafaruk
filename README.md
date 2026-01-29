@@ -58,4 +58,4 @@ Focusing on how systems behave under real-world conditions. I work on building *
 ### 🎯 Core Philosophy
 
 I treat engineering as the process of making systems **explainable**.  
-If a system fails, I fix the underlying assumption—not just the symptom.
+If a system fails, I fix the underlying assumption, not just the symptom.
